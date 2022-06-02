@@ -1,0 +1,12 @@
+.main-bg{
+    display: flex;
+    flex-direction: column;
+}
+
+.button-bottom-bg{
+    background-color: rgb(40, 44, 52);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 15vh;
+}

@@ -1,0 +1,47 @@
+
+footer{
+    background-color: #20232a;
+    color: #6d6d6d;
+
+}
+
+ul{
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+.flex{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0;
+}
+
+.title{
+    color: #999;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 3;
+    text-transform: uppercase;
+    text-align: start;
+    letter-spacing: 0.08em;
+}
+
+.items{
+    color: #fff;
+    line-height: 2;
+
+}
+
+.flex-items .facebook{
+    color: #fff;
+    max-width: 80px;
+    margin-bottom: 20px;
+}
+
+
+.flex-items .facebook a{
+    color: #fff;
+    font-size: 12px;
+}

@@ -1,0 +1,18 @@
+.buttons{
+    display: flex;
+    align-items: center;
+}
+
+.button-start{
+    font-size: 20px;
+    background-color: #61dafb;
+    color: #000000;
+    padding: 15px 25px;
+    white-space: nowrap;
+}
+
+.button-tutorial{
+    font-size: 20px;
+    color: #61dafb;
+    padding-left: 20px;
+}
